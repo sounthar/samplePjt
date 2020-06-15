@@ -1,2 +1,0 @@
-# samplePjt
-Created with CodeSandbox
